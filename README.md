@@ -3,3 +3,7 @@ Uses a bunch of data given by my girlfriend and predict political stand from the
 
 Warning: please don't use it. It's pretty crap model built on pretty crap data and 99.9% of the times predict that you are a democrat...
 The framework for mlp is solid and can be referenced for future uses.
+
+Here's the dataset.
+
+https://livejohnshopkins-my.sharepoint.com/:x:/g/personal/zma22_jh_edu/Ee8HoOSwi3tCtfEULa8k7GQBS4mm0p7pXrtyEd32u01cRQ?e=RBeN3p
